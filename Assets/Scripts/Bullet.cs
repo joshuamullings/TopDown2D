@@ -37,6 +37,7 @@ public class Bullet : MonoBehaviour
         }
 
         Destroy(this.gameObject);
+        // testing
     }
 
     private void UpdateAlpha()
